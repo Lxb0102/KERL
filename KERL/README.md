@@ -1,5 +1,5 @@
 # KERL
-**This is the data and code for our paper** `Knowledge enhanced representation learning network for Drug Recommendation`.
+**This is the data and code for our paper** `Knowledge enhanced representation learning network for drug recommendation`.
 
 ## Prerequisites
 
