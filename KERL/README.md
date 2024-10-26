@@ -15,9 +15,9 @@ Make sure your local environment has the following installed:
 * `python == 3.7`
 * `transformers == 2.9.1`
 
-## Datastes
+## Datasets
 
-We provide the dataset in the [datas](datas/) folder.
+We provide the dataset in the [data](data/) folder.
 
 | Data      | Source                                                   | Description                                                  |
 | --------- | -------------------------------------------------------- | ------------------------------------------------------------ |
