@@ -78,7 +78,7 @@ conda env create -f mrln_env.yaml
 
 ## Step 3: run the code
 ```
-python MRLN.py
+python train.py
 ```
 Please run `train.py` to begin training and testing.
 
